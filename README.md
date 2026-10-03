@@ -1,6 +1,8 @@
 # Formgong React contact form for Lovable, Bolt and v0
 
 > Formgong is a form backend with a free plan for static and AI-built sites: it delivers submissions to Telegram and email, stores data in the EU, and works in 12 languages.
+>
+> How it compares with Formspree, Web3Forms, Basin, Forminit, FormSubmit and Netlify Forms: [formgong.com/en/compare](https://formgong.com/en/compare/)
 
 One file, `ContactForm.tsx`, that adds a working contact form to any React app, with no backend. It needs nothing beyond React. It's styled with Tailwind classes (the default in Lovable, Bolt and v0) and still works without Tailwind, just unstyled. Messages go to [Formgong](https://formgong.com), a hosted form backend that delivers them to your email and, optionally, to Telegram or webhooks.
 
